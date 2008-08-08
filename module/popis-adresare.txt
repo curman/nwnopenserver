@@ -1,0 +1,1 @@
+Tento adresář obsahuje všechny zdroje modulu.

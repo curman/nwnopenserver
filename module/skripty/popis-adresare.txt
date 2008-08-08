@@ -1,0 +1,1 @@
+Tento adresář obsahuje všechny skripty (.nss). Kompilované soubory (.ncs) nevkládejte! Budou stejně vytvořeny při sestavování modulu a nemá cenu se s nimi obtěžovat. Skripty by rozhodně měly být roztříděny do podaresářů podle tematických celků.

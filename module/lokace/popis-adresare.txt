@@ -1,0 +1,1 @@
+Tento adresář obsahuje všechny soubory lokací. Každá lokace má tři soubory (.are, .gic, .git), které by bylo dobré seskupit v adresáři s resrefem lokace. Lokace by bylo dobré seskupovat v adresářích podle tematických celků.

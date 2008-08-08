@@ -1,0 +1,1 @@
+Tento adresář obsahuje všechny blueprinty v paletách (soubory .ut*). Top level rozdělen podle jednotlivých palet.

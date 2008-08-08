@@ -1,0 +1,1 @@
+Tento adresář obsahuje základní .mod soubor modulu se zdroji, které se nedají importovat do temp0 adresáře.
