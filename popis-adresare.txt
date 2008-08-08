@@ -1,0 +1,1 @@
+Top level adresář. Jeho podadresáře obsahují jednotlivé podprojekty, jako dokumentace a web. Master branch by měla odrážet vývoj hlavního adresáře s modulem - module.
