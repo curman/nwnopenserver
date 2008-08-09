@@ -1,0 +1,1 @@
+Tento adresář obsahuje všechny zdroje do modulu přidané přes haky a jejich organizaci v hacích.
